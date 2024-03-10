@@ -1,0 +1,10 @@
+C:\Users\Harsh\source\repos\StudentAdmissionSystem\bin\Debug\StudentAdmissionSystem.exe.config
+C:\Users\Harsh\source\repos\StudentAdmissionSystem\bin\Debug\StudentAdmissionSystem.exe
+C:\Users\Harsh\source\repos\StudentAdmissionSystem\bin\Debug\StudentAdmissionSystem.pdb
+C:\Users\Harsh\source\repos\StudentAdmissionSystem\bin\Debug\ConsoleTables.dll
+C:\Users\Harsh\source\repos\StudentAdmissionSystem\bin\Debug\ConsoleTables.pdb
+C:\Users\Harsh\source\repos\StudentAdmissionSystem\obj\Debug\StudentAdmissionSystem.csproj.AssemblyReference.cache
+C:\Users\Harsh\source\repos\StudentAdmissionSystem\obj\Debug\StudentAdmissionSystem.csproj.CoreCompileInputs.cache
+C:\Users\Harsh\source\repos\StudentAdmissionSystem\obj\Debug\StudentAdmissionSystem.csproj.CopyComplete
+C:\Users\Harsh\source\repos\StudentAdmissionSystem\obj\Debug\StudentAdmissionSystem.exe
+C:\Users\Harsh\source\repos\StudentAdmissionSystem\obj\Debug\StudentAdmissionSystem.pdb
